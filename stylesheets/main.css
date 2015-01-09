@@ -329,7 +329,7 @@ footer {
 
 .con-index {
   width: 1000px;
-  height: 700px;
+  height: 850px;
   background: url(../images/bg_index.jpg);
 }
 
@@ -359,7 +359,7 @@ footer {
 
 .pic-index01 {
   float: left;
-  margin: 155px 0 0 -15px;
+  margin: 170px 0 0 -15px;
   width: 254px;
   height: 314px;
   background: url(../images/pic_index01.png);
@@ -367,7 +367,7 @@ footer {
 
 .pic-index02 {
   float: left;
-  margin: 360px 0 0 -130px;
+  margin: 390px 0 0 -130px;
   width: 256px;
   height: 230px;
   background: url(../images/pic_index02.png);
@@ -375,7 +375,7 @@ footer {
 
 .pic-index03 {
   float: left;
-  margin: 240px 0 0 -150px;
+  margin: 260px 0 0 -150px;
   width: 277px;
   height: 259px;
   background: url(../images/pic_index03.png);
@@ -383,7 +383,7 @@ footer {
 
 .pic-index04 {
   float: left;
-  margin: 320px 0 0 140px;
+  margin: 360px 0 0 120px;
   width: 227px;
   height: 253px;
   background: url(../images/pic_index04.png);
@@ -391,7 +391,7 @@ footer {
 
 .pic-index05 {
   float: left;
-  margin: -380px 0 0 440px;
+  margin: -360px 0 0 440px;
   width: 191px;
   height: 260px;
   background: url(../images/pic_index05.png);
@@ -439,7 +439,7 @@ footer {
 
 .text-area-index {
   float: left;
-  margin: -370px 0 0 100px;
+  margin: -410px 0 0 100px;
   width: 240px;
 }
 .btn-scroll {
